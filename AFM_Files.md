@@ -43,5 +43,25 @@
 
 * Went back to same spot as Film1.003, totally fkd
 
+# New Tip
+
+## 150623 Film1.008
+* X: 82089
+* Y: 174341
+* 10.0 µm
+* 1.02 Hz
+* 1024 samples/line
+
+* Taken on pure Au region, did not go crappy
+
+## 150623 Film1.009
+* X: 76195
+* Y: 173541
+* 2.0 µm
+* 0.992 Hz
+* 512 samples/line
+* turned up drive amp to 600 mV
+
+* Taken out in the middle
 
 
