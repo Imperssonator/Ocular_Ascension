@@ -124,4 +124,10 @@
 * 256 samples/line
 * Center of channel
 
-## 150623 Film7.00
+## 150623 Film7.004
+* X: 77549
+* Y: 176885
+* 5.0 µm
+* 0.6 Hz
+* 1024 samples/line
+* Center of channel
