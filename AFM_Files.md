@@ -64,4 +64,35 @@
 
 * Taken out in the middle
 
+#June 24, 2015
 
+* Drive amplitude on the same tip as previous runs was 138.24 vs 600 mV^^^, still got great image
+
+## 150623 Film1.010
+* X: 77712
+* Y: 175556
+* 500 nm
+* 1 Hz
+* 256 samples/line
+
+* Should be pretty much dead center of film
+
+## 150623 Film1.011
+* X: 77712
+* Y: 175556
+* 5.0 µm
+* 0.6 Hz
+* 1024 samples/line
+
+* Taking a larger image always zooms out from center
+
+## 150623 Film1.012
+* X: 77712
+* Y: 175556
+* X Offset: -341.797
+* Y Offset: 717.773
+* 806 nm
+* 0.6 Hz
+* 512 samples/line
+
+* Tried to do a "zoomed in" image grab of a fiber bundle/weave
