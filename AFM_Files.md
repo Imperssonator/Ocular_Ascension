@@ -96,3 +96,32 @@
 * 512 samples/line
 
 * Tried to do a "zoomed in" image grab of a fiber bundle/weave
+
+# Film 7
+* Spun from aged solution, 6 days
+
+## 150623 Film7.001
+* X: 83015
+* Y: 175736
+* 500 nm
+* 1 Hz
+* 256 samples/line
+* Close to center
+
+## 150623 Film7.002
+* X: 83015
+* Y: 175736
+* 5.0 µm
+* 0.6 Hz
+* 1024 samples/line
+* Close to center
+
+## 150623 Film7.003
+* X: 77549
+* Y: 176885
+* 500 nm
+* 1 Hz
+* 256 samples/line
+* Center of channel
+
+## 150623 Film7.00
