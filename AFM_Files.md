@@ -13,6 +13,7 @@
 * 10.0 µm
 * 1 Hz
 * 1024 samples/line
+* Middle of channel
 
 ## 150623 Film1.005
 * X: 82550.0 µm
