@@ -28,4 +28,25 @@
 * 512 samples
 * pretty typical for a UV sample
 
+## s+u-t-a-A.001
+* south
+* 7 um
+* 1 Hz
+* 512 samples
+* faded over time.. bad
+
+## s+u-t-a-A.002
+* mid-north
+* 5 um
+* 1 Hz
+* 512 samples
+* much better
+
+## s+u+t-a-D.001
+* mid
+* 5 um
+* 1 Hz
+* 512 samples
+* 
+
 
